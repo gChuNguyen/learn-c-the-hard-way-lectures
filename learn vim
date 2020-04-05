@@ -1,0 +1,50 @@
+1. Open a file 
+
+
+	vim "file name"
+
+2. Move in file 
+
+	H - left
+	J - down
+	K - Up
+	L - right
+
+	$ nhay ve cuoi dong hien tai
+	0 nhay ve dau dong hien tai
+	
+	gg go to top
+	
+	G Nhay xuong cuoi file 
+
+	50G Nhay toi dong 50 cua file
+
+	CRTR + G hien tho thon tin dong hien tai, tong so dong
+
+3. High light
+	
+	v -- Highlight mot vong tex duoc chon bangw H/J/K/L
+	V -- Chon nhanh dong hien ta
+
+
+	vap - chon doan van ban hien tai
+
+	ggVG -- Chon toan bo file
+
+4. Tim kiem
+
+	/n -- Tim kiem
+
+5. Chinh sua noi dung
+
+	i - insert
+	R - Thay the
+	x - xoa vi tri contro
+
+6- Thoat and save
+
+	:q - Thoat
+	:q! bat buoc thoat khong can luu
+	:w! Bat buoc ghi file de
+	:wq - Luu xong thoat
+	:w luu file 
